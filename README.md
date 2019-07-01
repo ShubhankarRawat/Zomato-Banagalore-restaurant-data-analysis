@@ -2,7 +2,7 @@
 
 ![img](img1.jpg)
 
-###### You can find the well documented and detailed approach here :  
+## You can find the well documented and detailed approach here : [link]()
 
 Bangalore(officially known as Bengaluru) is the capital and largest city of the Indian state of Karnataka. 
 With a population of over 15 million, Bangalore is the third largest city in India and 27th largest city in the world.
